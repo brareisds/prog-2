@@ -1,6 +1,6 @@
 
-# README - Modificações feitas no Jogo Aggressive Squares
-As modificações foram implementadas considerando o código da Fase IV do Projeto Quadrados Agressivos desenvolvido em sala
+## Desafio - Implementação de novas funcionalidades para o Jogo Aggressive Squares
+As modificações foram implementadas considerando o código da Fase IV do Projeto Quadrados Agressivos desenvolvido em sala de aula.
 
 ### Arquivos Modificados
 As modificações foram feitas nos seguintes arquivos de código fonte:
