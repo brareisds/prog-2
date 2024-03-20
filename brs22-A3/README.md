@@ -15,7 +15,7 @@ O usuário fornece as dimensões do tabuleiro, o número de linhas inimigas, a q
 ### Forma de uso:
 ./space_enemies -y map_y_limit -x map_x_limit -e map_enemy_lines -r rounds -o output
 
-## Funcionalidades a Serem Implementadas
+## Funcionalidades a serem implementadas
 
 ### `A3.c`
 - Função `execute_event` para atualizar a lista de tiros e verificar se novos tiros devem ser criados.
