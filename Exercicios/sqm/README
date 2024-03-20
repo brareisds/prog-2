@@ -1,0 +1,10 @@
+EXERCICIO 08
+
+O arquivo mapa.txt contém o mapa de um nível do jogo Boulder Dash. Escreva
+um programa em C que carregue esse mapa em uma matriz de caracteres.
+
+Crie uma biblioteca que contenha funções com as seguintes funcionalidades:
+➔ Retornar a altura do mapa
+➔ Retornar a largura do mapa
+➔ Retornar o número de células do mapa
+➔ Retornar a matriz do mapa 

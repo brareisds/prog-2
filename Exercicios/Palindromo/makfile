@@ -1,0 +1,21 @@
+# Makefile de exemplo (Manual do GNU Make)
+     
+CFLAGS = -Wall -std=c90 -g  # flags de compilacao
+LDFLAGS = -lm
+
+CC = gcc
+
+# arquivos-objeto
+	objects = palindromo.o deque.o 
+     
+all: palindromo.o deque.o
+	$(CC) -o palindromo palindromo.o deque.o $(LDFLAGS)
+
+deque.o: deque.c
+	$(CC) -c $(CFLAGS) deque.c
+
+palindromo.o: palindromo.c
+	$(CC) -c $(CFLAGS) palindromo.c
+
+clean:
+	rm -f $(objects) palindromo
