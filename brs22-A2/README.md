@@ -1,7 +1,5 @@
 ## Avaliação 2 (continuação da av1) - Leitor de Atributos ARFF
 
-## Descrição do Projeto
-
 O projeto consiste na implementação de um leitor de atributos de arquivos ARFF (Attribute-Relation File Format). O formato ARFF é utilizado no contexto da solução WEKA (Waikato Environment for Knowledge Analysis) para armazenar dados em formato de tabela.
 
 ## Funcionalidades Implementadas
